@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-11-13",
+  "risk_free_rate": 0.05141,
+  "risk_free_source": "US 10-year Treasury yield (CBOE ^TNX close 2026-11-13, Yahoo Finance)",
+  "mature_market_erp": 0.0423,
+  "erp_source": "Damodaran, Country Default Spreads and Risk Premiums, update January 5, 2026",
+  "country_risk_premium": {"United States":0.0023,"Colombia":0.0285,"Brazil":0.0324,"Mexico":0.0246,"Argentina":0.0971,"Germany":0.0,"France":0.0078,"Spain":0.0155,"Italy":0.0246,"Netherlands":0.0,"Denmark":0.0,"Switzerland":0.0,"Sweden":0.0,"United Kingdom":0.0078,"Saudi Arabia":0.0078,"United Arab Emirates":0.0064,"Qatar":0.0064,"Taiwan":0.0078,"Korea":0.0064,"China":0.0091,"Hong Kong":0.0078,"Japan":0.0091,"India":0.0285,"Singapore":0.0,"Australia":0.0},
+  "crp_note": "Sweden not extracted; Aaa-rated, set to 0 like other Aaa countries",
+  "fx_per_usd": {"USD":1.0,"EUR":0.90481,"GBP":0.75605,"JPY":160.0,"KRW":1337.13,"INR":94.25,"CNY":6.6719,"HKD":7.846,"SGD":1.2881,"AUD":1.4738,"DKK":6.764,"MXN":18.593,"BRL":5.6637,"CHF":0.8384,"TWD":32.875,"COP":3302.49,"SAR":3.75,"AED":3.6725,"QAR":3.64},
+  "fx_source": "ECB reference rates via frankfurter.app (2026-11-13); TWD and COP from Yahoo Finance; SAR, AED, QAR at official USD pegs",
+  "beta_source": "Damodaran, US industry betas (unlevered, cash-corrected), January 2026",
+  "unlevered_beta": {"Computers/Peripherals":1.32,"Semiconductor":1.50,"Semiconductor Equip":1.39,"Software (System & Application)":1.25,"Software (Internet)":1.59,"Software (Entertainment)":1.02,"Retail (General)":0.78,"Retail (Special Lines)":1.00,"Auto & Truck":1.31,"Insurance (Prop/Cas.)":0.46,"Insurance (General)":0.58,"Bank (Money Center)":0.44,"Brokerage & Investment Banking":0.68,"Financial Svcs. (Non-bank & Insurance)":0.33,"Oil/Gas (Integrated)":0.28,"Drugs (Pharmaceutical)":0.92,"Entertainment":0.76,"Aerospace/Defense":0.87,"Beverage (Soft)":0.58,"Computer Services":0.96,"Telecom (Wireless)":0.39,"Telecom. Services":0.38,"Electrical Equipment":1.19,"Household Products":0.74,"Chemical (Basic)":0.64,"Power":0.31,"Real Estate (Development)":0.56,"Investments & Asset Management":0.59,"Electronics (Consumer & Office)":0.93,"Metals & Mining":1.01,"Apparel":0.79},
+  "levered_beta_bank": {"Bank (Money Center)":0.76,"Brokerage & Investment Banking":1.17,"Insurance (Prop/Cas.)":0.48,"Insurance (General)":0.67,"Investments & Asset Management":0.66},
+  "excluded": {"IHC.AE":"International Holding Company: no fundamentals coverage in Yahoo Finance","FAB.AE":"First Abu Dhabi Bank: no fundamentals coverage in Yahoo Finance","EAND.AE":"e&: no fundamentals coverage in Yahoo Finance"}
+}

@@ -1,0 +1,83 @@
+ticker,name,country,region,industry,model
+AAPL,Apple,United States,North America,Computers/Peripherals,fcff
+NVDA,NVIDIA,United States,North America,Semiconductor,fcff
+MSFT,Microsoft,United States,North America,Software (System & Application),fcff
+GOOGL,Alphabet,United States,North America,Software (Internet),fcff
+AMZN,Amazon,United States,North America,Retail (General),fcff
+META,Meta Platforms,United States,North America,Software (Internet),fcff
+TSLA,Tesla,United States,North America,Auto & Truck,fcff
+BRK-A,Berkshire Hathaway,United States,North America,Insurance (Prop/Cas.),equity
+JPM,JPMorgan Chase,United States,North America,Bank (Money Center),equity
+V,Visa,United States,North America,Financial Svcs. (Non-bank & Insurance),fcff
+XOM,Exxon Mobil,United States,North America,Oil/Gas (Integrated),fcff
+MA,Mastercard,United States,North America,Financial Svcs. (Non-bank & Insurance),fcff
+PFE,Pfizer,United States,North America,Drugs (Pharmaceutical),fcff
+DIS,Walt Disney,United States,North America,Entertainment,fcff
+GE,GE Aerospace,United States,North America,Aerospace/Defense,fcff
+KO,Coca-Cola,United States,North America,Beverage (Soft),fcff
+CVX,Chevron,United States,North America,Oil/Gas (Integrated),fcff
+C,Citigroup,United States,North America,Bank (Money Center),equity
+AXP,American Express,United States,North America,Bank (Money Center),equity
+WFC,Wells Fargo,United States,North America,Bank (Money Center),equity
+GS,Goldman Sachs,United States,North America,Brokerage & Investment Banking,equity
+MS,Morgan Stanley,United States,North America,Brokerage & Investment Banking,equity
+BAC,Bank of America,United States,North America,Bank (Money Center),equity
+IBM,IBM,United States,North America,Computer Services,fcff
+NFLX,Netflix,United States,North America,Entertainment,fcff
+INTC,Intel,United States,North America,Semiconductor,fcff
+ORCL,Oracle,United States,North America,Software (System & Application),fcff
+PLTR,Palantir,United States,North America,Software (System & Application),fcff
+MELI,MercadoLibre,Brazil,Latin America,Retail (General),fcff
+PBR,Petrobras,Brazil,Latin America,Oil/Gas (Integrated),fcff
+AMX,America Movil,Mexico,Latin America,Telecom (Wireless),fcff
+NU,Nu Holdings,Brazil,Latin America,Bank (Money Center),equity
+EC,Ecopetrol,Colombia,Latin America,Oil/Gas (Integrated),fcff
+CIB,Grupo Cibest (Bancolombia),Colombia,Latin America,Bank (Money Center),equity
+AVAL,Grupo Aval,Colombia,Latin America,Bank (Money Center),equity
+SAP,SAP,Germany,Europe,Software (System & Application),fcff
+AZN,AstraZeneca,United Kingdom,Europe,Drugs (Pharmaceutical),fcff
+NVS,Novartis,Switzerland,Europe,Drugs (Pharmaceutical),fcff
+SHEL,Shell,United Kingdom,Europe,Oil/Gas (Integrated),fcff
+TTE,TotalEnergies,France,Europe,Oil/Gas (Integrated),fcff
+BP,BP,United Kingdom,Europe,Oil/Gas (Integrated),fcff
+HSBC,HSBC,United Kingdom,Europe,Bank (Money Center),equity
+SAN,Banco Santander,Spain,Europe,Bank (Money Center),equity
+BBVA,BBVA,Spain,Europe,Bank (Money Center),equity
+SIE.DE,Siemens,Germany,Europe,Electrical Equipment,fcff
+ALV.DE,Allianz,Germany,Europe,Insurance (General),equity
+AIR.PA,Airbus,France,Europe,Aerospace/Defense,fcff
+OR.PA,L'Oreal,France,Europe,Household Products,fcff
+ITX.MC,Inditex,Spain,Europe,Retail (Special Lines),fcff
+SPOT,Spotify,Sweden,Europe,Software (Entertainment),fcff
+RACE,Ferrari,Italy,Europe,Auto & Truck,fcff
+2222.SR,Saudi Aramco,Saudi Arabia,Middle East,Oil/Gas (Integrated),fcff
+1180.SR,Saudi National Bank,Saudi Arabia,Middle East,Bank (Money Center),equity
+EMIRATESNBD.AE,Emirates NBD,United Arab Emirates,Middle East,Bank (Money Center),equity
+QNBK.QA,Qatar National Bank,Qatar,Middle East,Bank (Money Center),equity
+2010.SR,SABIC,Saudi Arabia,Middle East,Chemical (Basic),fcff
+7010.SR,Saudi Telecom (stc),Saudi Arabia,Middle East,Telecom. Services,fcff
+2082.SR,ACWA Power,Saudi Arabia,Middle East,Power,fcff
+EMAAR.AE,Emaar Properties,United Arab Emirates,Middle East,Real Estate (Development),fcff
+1120.SR,Al Rajhi Bank,Saudi Arabia,Middle East,Bank (Money Center),equity
+MUFG,Mitsubishi UFJ Financial,Japan,Asia-Pacific,Bank (Money Center),equity
+1398.HK,ICBC,China,Asia-Pacific,Bank (Money Center),equity
+D05.SI,DBS Group,Singapore,Asia-Pacific,Bank (Money Center),equity
+CBA.AX,Commonwealth Bank of Australia,Australia,Asia-Pacific,Bank (Money Center),equity
+HDB,HDFC Bank,India,Asia-Pacific,Bank (Money Center),equity
+TSM,TSMC,Taiwan,Asia-Pacific,Semiconductor,fcff
+005930.KS,Samsung Electronics,Korea,Asia-Pacific,Semiconductor,fcff
+BABA,Alibaba,China,Asia-Pacific,Retail (General),fcff
+PDD,PDD Holdings,China,Asia-Pacific,Retail (General),fcff
+TM,Toyota,Japan,Asia-Pacific,Auto & Truck,fcff
+SONY,Sony,Japan,Asia-Pacific,Electronics (Consumer & Office),fcff
+9984.T,SoftBank Group,Japan,Asia-Pacific,Investments & Asset Management,equity
+0857.HK,PetroChina,China,Asia-Pacific,Oil/Gas (Integrated),fcff
+0700.HK,Tencent,China,Asia-Pacific,Software (Internet),fcff
+RELIANCE.NS,Reliance Industries,India,Asia-Pacific,Oil/Gas (Integrated),fcff
+TCS.NS,Tata Consultancy Services,India,Asia-Pacific,Computer Services,fcff
+BHP,BHP Group,Australia,Asia-Pacific,Metals & Mining,fcff
+VALE,Vale,Brazil,Latin America,Metals & Mining,fcff
+ASML,ASML,Netherlands,Europe,Semiconductor Equip,fcff
+MC.PA,LVMH,France,Europe,Apparel,fcff
+NVO,Novo Nordisk,Denmark,Europe,Drugs (Pharmaceutical),fcff
+000660.KS,SK Hynix,Korea,Asia-Pacific,Semiconductor,fcff
